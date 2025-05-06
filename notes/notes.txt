@@ -1,0 +1,25 @@
+Genre Grouping with Priority Clusters:
+Songs are grouped or loosely clustered based on dominant genre families (e.g., afro house, chill house, pop, future bass, etc.). Some genres appear prioritized (e.g., afro house, organic house) — likely based on either:
+
+    A target mood/style of the playlist (e.g., house-heavy, pop-heavy)
+
+    Manual or learned ranking of genre clusters
+
+BPM Smoothing (Tempo Flow):
+Within those clusters, songs are sorted to allow natural BPM transitions — usually:
+
+    Ascending or gently fluctuating tempo
+
+    BPM jumps are minimized for smoother transitions
+
+Artist Variety Preference:
+Songs by the same artist (e.g., multiple by Tate McRae) are spaced out to avoid repetition, unless stylistically appropriate.
+
+Playlist Type Variation:
+The three different outputs likely represent:
+
+    Output 1: House-oriented blend → starts with afro house, organic house
+
+    Output 2: R&B/rap-to-chill progression → starts with rap, ends with chill house
+
+    Output 3: Pop-to-deep house buildup → mid-tempo pop, gradually ramps into house/electronic
