@@ -5,7 +5,7 @@ from typing import List
 app = FastAPI()
 
 class Song(BaseModel):
-    name: str
+    title: str
     bpm: float
     genres: List[str]
     artists: List[str]
